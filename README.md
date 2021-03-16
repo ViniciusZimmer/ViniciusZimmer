@@ -2,8 +2,8 @@
 <h3 align="center">A developer Front-end</h3>
 
 - 💬 I’m currently learning **JavaScript, HTML, CSS, SQL**
-- 📫 How to reach me **viniciuszimmer92@gmail.com**
 - 🤔 I’m looking for help with **React, Angular.js, Node.js**
+- 📫 How to reach me **viniciuszimmer92@gmail.com**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vinicius-zimmer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciuszimmer" height="20" width="20" /></a>
