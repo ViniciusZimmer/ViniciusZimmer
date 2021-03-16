@@ -1,8 +1,8 @@
 <h1 align="center">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Zimmer</h1>
 <h3 align="center">A developer Front-end</h3>
 
-- 💬 I’m currently learning **JavaScript, HTML, CSS, SQL**
-- 🤔 I’m looking for help with **React, Angular.js, Node.js**
+- 💬 I’m currently learning **JavaScript, HTML, CSS and SQL**
+- 🤔 I’m looking for help with **React, Angular.js and Node.js**
 - 📫 How to reach me **viniciuszimmer92@gmail.com**
 
 <p align="center">
