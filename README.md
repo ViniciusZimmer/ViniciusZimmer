@@ -7,6 +7,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vinicius-zimmer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciuszimmer" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009167042380" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="viniciuszimmer" height="20" width="20" /></a>
+<a href="https://twitter.com/sahdidhsja" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" alt="viniciuszimmer" height="20" width="20" /></a>
 <a href="https://www.instagram.com/vini.zimmer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viniciuszimmer" height="20" width="20" /></a>
 </p>
