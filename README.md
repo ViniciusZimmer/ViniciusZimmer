@@ -1,4 +1,4 @@
-<h1 align="center">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Zimmer</h1>
+<h1 align="center">Hi, I'm Vinicius Zimmer <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif"></h1>
 <h3 align="center">Developer Front-end</h3>
 
 - 💬 I’m currently learning **JavaScript, HTML, CSS** and **SQL**
