@@ -5,15 +5,15 @@
 - 🤔 I’m looking for help with **React, Angular.js** and **Node.js**
 
 <a href="https://github.com/ViniciusZimmer">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusZimmer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusZimmer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&langs_count=8&theme=dark"/>
 <a>
 
-<a style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p align="center"><br>
+  <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </a>
 
   <p align="center">
