@@ -14,6 +14,7 @@
   <img align="center" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="20" width="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </a>
 
   <p align="center">
