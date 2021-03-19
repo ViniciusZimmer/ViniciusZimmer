@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with **React, Angular.js** and **Node.js**
 
 <a href="https://github.com/ViniciusZimmer">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusZimmer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusZimmer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&langs_count=8&theme=onedark"/>
 <a>
 
 <a style="display: inline_block"><br>
