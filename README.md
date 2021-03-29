@@ -21,3 +21,7 @@
     <a href="https://www.instagram.com/vini.zimmer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
   </p>
 
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ViniciusZimmer/count.svg" />
+ </p>
