@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Vinicius Zimmer <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif"></h1>
 <h3 align="center">Developer Front-end</h3>
-
-- 💬 I’m currently learning **JavaScript, HTML, CSS, PHP** and **SQL**
-- 🤔 I’m looking for help with **React, Angular.js** and **Node.js**
  
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
