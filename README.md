@@ -13,7 +13,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
