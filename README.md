@@ -18,7 +18,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&theme=vision-friendly-dark" alt="Vinicius Zimmer's most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&theme=vision-friendly-dark" alt="Vinicius Zimmer's most languages"/>
 </p>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
