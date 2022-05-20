@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Zimmer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusZimmer&color=green" alt="Profile views" /> </p>
 
@@ -8,9 +7,6 @@
 
 - 💬 I like to study **Flutter, Dart, JavaScript**
 
-
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
@@ -19,15 +15,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=angular)&nbsp;
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&theme=vision-friendly-dark" alt="Vinicius Zimmer's most languages"/>
 </p>
-
-<br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
