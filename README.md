@@ -11,15 +11,6 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZimmer&layout=compact&theme=vision-friendly-dark" alt="Vinicius Zimmer's most languages"/>
-</p>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
