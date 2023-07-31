@@ -1,7 +1,7 @@
 <h1 align="left">Hi I'm Vinicius Zimmer</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusZimmer&color=green" alt="Profile views" /> </p>
 
-- 🔥 Junior Flutter Developer/
+- 🔥 Pleno Flutter Developer
 
 - 🔭 I’m currently working at [BRQ Digital Solutions](https://www.linkedin.com/company/brq/mycompany/)
 
